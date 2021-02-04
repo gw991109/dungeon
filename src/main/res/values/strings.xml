@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">DungeonEscape</string>
+    <string name="enter">ENTER</string>
+    <string name="time">Time</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="you_ve_escaped">You\'ve escaped.</string>
+    <string name="numtimer">numTimer</string>
+    <string name="coins">Coins</string>
+    <string name="lives">Lives</string>
+    <string name="play_again">Play Again</string>
+    <string name="menu">Menu</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="load_game">Load Game</string>
+    <string name="enter_game">Enter</string>
+    <string name="select_player">Select Player</string>
+    <string name="game_title">Dungeon Escape</string>
+    <string name="new_game">New Game</string>
+    <string name="maze_game_title">Level 2: Maze</string>
+    <string name="start_game">Start Game</string>
+    <string name="name_input">Name</string>
+    <string name="satchelButton">Satchel</string>
+    <string name="countTime">Time left: 00:00</string>
+</resources>
